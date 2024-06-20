@@ -825,6 +825,79 @@ Browser  =>  Controller => Service = > Repository => Database
 
 
 
+>>>>>>>>>>>>>>>>>>>>
+
+
+
+Java
+1.Lamda expression
+2.Stream api
+3.What improvement in date time api and why
+4.Oops java
+5.Dimond problem from with java 8 default method and how to solve
+6.how to hack singleton patter how to prevent
+7.design patterns
+8.multithreading 
+9.what is synchronisation , why we need it
+10.how to prevent from object get serialise
+11.immutable class, how to create and can we break immutability of object
+12.coding questions
+13.functional interface and lamda expression
+14.marker interfaces
+15.collection internal implementations , hashmap internal working
+16.composition vs association vs aggregation
+17.can we start thread twice
+18.what happens we call run method directly instead of start of thread 
+
+
+Spring
+1.Spring life cycle, spring beans
+2.Spring beans scope
+3.Can we create more than one ioc containers
+4.If beans created in ioc context is also visble on another ioc context.
+
+
+
+
+Spring boot
+1.Spring vs spring boots
+2.Spring annotations
+3.What autoconfiguration 
+4.Advantages and disadvantages of spring
+5.How configure databases
+
+
+Hibernate and JPA
+1.Hibernate vs JPA
+2.What is transaction management in hibernet
+3.Get vs load method
+4.Save vs persist vs saveandupdate
+5.Save vs saveandflush
+6.What is session
+7.What is cache in hibernate  and how to manage it
+8.Nested trasation management and working
+9.Inheritance stratergy like table per hierache vs table per concreate class vs table per subclass
+
+Basic for just overlook….
+What is the purpose of the method public static void main in a Java program?
+What is the difference between System.out.println and System.err.println?
+What is an interface in Java?
+When would you use an abstract class instead of an interface?
+What are the differences between a public method and a protected one?
+What is a static variable?
+What is an Exception in Java?
+Is it a good practice to catch a RuntimeException?
+What is the keyword to use in a method signature to allow non-catching of an exception in this 	method?
+What is the latest version of Java?
+What is the purpose of a garbage collector?
+What is the difference between a HashSet and a TreeSet?
+Which Thread method is called when a thread starts?
+Is it possible to update a String object (without using introspection)?
+What is the contract between the methods equals and hashcode?
+Who is James Gosling?
+
+
+https://www.quora.com/What-are-the-real-life-practical-examples-of-a-Java-overloading-and-overriding
 
 
 
