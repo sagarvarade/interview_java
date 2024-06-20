@@ -902,3 +902,30 @@ https://www.quora.com/What-are-the-real-life-practical-examples-of-a-Java-overlo
 
 
 
+Infosys  :
+
+1. Desing pattern in java , which you have used.
+2. Design pattern in spring microservices
+3. What is use of API_Gateway and service registry
+4. What if below add to set / Map / List , how it will behave
+    Employee e1=new Employee(1,"emp1",20000);
+	Employee e2=new Employee(1,"emp1",20000);
+5. Get max salary from lambda
+6. Functional Interface in java
+7. Sprign boot Put vs Patch
+8. Exception handling in spring boot local vs Global exception
+9. CI/ CD
+10. Git fetch vs Pull
+11. All joing in DB
+12. How to call native query in JPA
+13. How to handle composite key in JPA
+14. How do you define mapping in JPA
+15. Have you used kafka
+16. what are diferent design patther in MS
+
+
+
+
+
+
+
